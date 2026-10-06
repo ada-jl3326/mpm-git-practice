@@ -6,3 +6,8 @@ def greet(name):
 def shout(name):
     """Return a loud greeting for the given name."""
     return f"HELLO, {name.upper()}!"
+
+
+def farewell(name):
+    """Return a farewell for the given name."""
+    return f"Goodbye, {name}!"
